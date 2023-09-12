@@ -1,0 +1,11 @@
+Model Information:
+* title:	Bubble Speech
+* source:	https://sketchfab.com/3d-models/bubble-speech-35a43c6f35ad48ca97aea6d88de2ce27
+* author:	jorge_gauss (https://sketchfab.com/jorge_gauss)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Bubble Speech" (https://sketchfab.com/3d-models/bubble-speech-35a43c6f35ad48ca97aea6d88de2ce27) by jorge_gauss (https://sketchfab.com/jorge_gauss) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
